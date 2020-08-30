@@ -1,0 +1,9 @@
+admin login details
+
+
+username:admin  password:admin
+
+
+customer login details
+
+username:user1  password:pass1
